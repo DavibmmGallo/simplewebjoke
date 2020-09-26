@@ -1,0 +1,1 @@
+{"error":false,"category":"Miscellaneous","type":"single","joke":"Schrödinger's cat walks into a bar and doesn't.","flags":{"nsfw":false,"religious":false,"racist":false,"sexist":false,"political":false},"id":199,"lang":"en"}
