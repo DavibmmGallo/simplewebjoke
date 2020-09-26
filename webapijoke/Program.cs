@@ -33,7 +33,7 @@ namespace webapijoke
             
             //Save joke as json at app directory
             char c = '0';
-            Console.Write("\nDo you like this joke, save it! (y/n) : ");
+            Console.Write("\nIf you like this joke, save it! (y/n) : ");
             char.TryParse(Console.ReadLine(), out c);
             if (char.ToLower(c) == 'y')
             {
